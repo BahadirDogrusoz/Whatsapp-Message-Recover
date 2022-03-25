@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsDelete</string>
+
+    <string name="grant_permission">Devam etmek için bildirim erişim izni gerektirir.</string>
+    <string name="allow_permission">İzin Ver</string>
+    <string name="deny_permission">İzin Verme</string>
+    <string name="exit">Çıkış</string>
+    <string name="no_saved_messages_right_now">Kaydedilmiş mesaj yok!</string>
+</resources>
